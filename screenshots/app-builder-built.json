@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ForgeOne Roof Geometry",
+      "hasCanvas": false,
+      "bodyTextLen": 582,
+      "bodyTextHash": "0e1c9c498bfba524cb06444d7ca9de8902ba0a3b9f0e013518f62c4bf06cf6b8",
+      "bodyTextPrefix": "FORGEONE CRM ROOF GEOMETRY Diagnostics Measure address No parcel",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ForgeOne Roof Geometry",
+      "hasCanvas": false,
+      "bodyTextLen": 334,
+      "bodyTextHash": "bb616abc52ca5a1024dbd1d7aa9609bde01774e1cf6333523a5b3bc3a3873b40",
+      "bodyTextPrefix": "FORGEONE CRM ROOF GEOMETRY Diagnostics Measure address Jobs Map ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
